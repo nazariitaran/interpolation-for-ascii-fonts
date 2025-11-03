@@ -4,7 +4,7 @@ Explore image scaling techniques using different interpolation methods: nearest 
 
 
 # Article
-Read the full article on Medium - https://medium.com/@nazarii.taran/interpolation-methods-for-ascii-font-scaling-499f417ccfba
+Read the full article on Medium - https://medium.com/@nazariitaran/interpolation-methods-for-ascii-font-scaling-499f417ccfba
 
 # App
 ![App in action](demo.gif)
